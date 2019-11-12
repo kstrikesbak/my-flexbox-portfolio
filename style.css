@@ -46,7 +46,7 @@ flex: 1;
 }
 
 
-@media (max-width: 550px) {
+@media (max-width: 530px) {
 body, .section-two {
     flex-direction: column;
 }
